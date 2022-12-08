@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'cxu_oh's Notion',
+  name: 'cxu_oh Notion',
   domain: 'https://www.notion.so/cxu_oh-fc4087add26547a18ade6606f6eafb20',
-  author: 'cx_oh',
+  author: 'cxu_oh',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
