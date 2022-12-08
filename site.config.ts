@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'cxu_oh's Notion Page',
+  name: 'cxu_oh's Notion',
   domain: 'https://www.notion.so/cxu_oh-fc4087add26547a18ade6606f6eafb20',
   author: 'cx_oh',
 
